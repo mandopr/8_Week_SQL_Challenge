@@ -5,7 +5,7 @@
 - [Business Task](#business-task)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/mandopr/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
+- [Solution on Github](#https://github.com/mandopr/8_Week_SQL_Challenge/blob/master/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
 
 ***
 
