@@ -2,7 +2,7 @@
 
 ## Solution
 
-View the complete syntax [here](https://github.com/mandopr/8_Week_SQL_Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql).
+View the complete syntax [here](https://github.com/mandopr/8_Week_SQL_Challenge/blob/master/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql).
 
 ***
 
